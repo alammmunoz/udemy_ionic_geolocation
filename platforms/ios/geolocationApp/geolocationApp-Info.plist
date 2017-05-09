@@ -63,7 +63,7 @@
     <key>Google Maps API Key</key>
     <string>AIzaSyB9nVRPDr93svgb4ZqxAOiraID70nqrJdY</string>
     <key>NSLocationWhenInUseUsageDescription</key>
-    <string>$NSLocationWhenInUseUsageDescription</string>
+    <string/>
     <key>NSLocationAlwaysUsageDescription</key>
     <string>$NSLocationAlwaysUsageDescription</string>
     <key>LSApplicationQueriesSchemes</key>

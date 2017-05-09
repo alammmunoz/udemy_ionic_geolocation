@@ -66,5 +66,21 @@
             "API_KEY_FOR_ANDROID": "AIzaSyBiKnCb-s7icE3KWspzngkVRzIgQzWJfVE",
             "API_KEY_FOR_IOS": "AIzaSyB9nVRPDr93svgb4ZqxAOiraID70nqrJdY"
         }
+    },
+    "cordova-plugin-geolocation": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-geolocation"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-compat": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-compat"
+        },
+        "is_top_level": false,
+        "variables": {}
     }
 }

@@ -28,10 +28,16 @@
         "cordova-plugin-googlemaps": {
             "API_KEY_FOR_ANDROID": "AIzaSyBiKnCb-s7icE3KWspzngkVRzIgQzWJfVE",
             "PACKAGE_NAME": "com.ionicframework.myGeoAppAlan"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "com.ionicframework.myGeoAppAlan"
         }
     },
     "dependent_plugins": {
         "com.googlemaps.ios": {
+            "PACKAGE_NAME": "com.ionicframework.myGeoAppAlan"
+        },
+        "cordova-plugin-compat": {
             "PACKAGE_NAME": "com.ionicframework.myGeoAppAlan"
         }
     }
